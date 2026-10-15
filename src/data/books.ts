@@ -60,7 +60,7 @@ export const books: Book[] = [
     id: 6,
     title: "கழிவறை இருக்கை",
     author: "லதா",
-    image: `${import.meta.env.BASE_URL}books/toiletseat.jpg`,
+    image: `${import.meta.env.BASE_URL}books/toiletseat.jpeg`,
     url: "https://link.amazon/B0igJ8XLs",
   },
 
