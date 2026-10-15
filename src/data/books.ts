@@ -42,4 +42,26 @@ export const books: Book[] = [
     image: `${import.meta.env.BASE_URL}books/sila_nerangalil_sila_manithargal.jpeg`,
     url: "https://link.amazon/B0d6vs22s",
   },
+  {
+    id: 4,
+    title: "ஒரு மனிதன் ஒரு வீடு ஒரு உலகம்",
+    author: "ஜெயகாந்தன்",
+    image: `${import.meta.env.BASE_URL}books/oru_veedu_oru_manithan_oru_ulagam.jpg`,
+    url: "https://link.amazon/B02X2RzUD",
+  },
+  {
+    id: 5,
+    title: "மாதொருபாகன்",
+    author: "பெருமாள் முருகன்",
+    image: `${import.meta.env.BASE_URL}books/mathorubagan.jpg`,
+    url: "https://link.amazon/B0igJ8XLs",
+  },
+  {
+    id: 6,
+    title: "கழிவறை இருக்கை",
+    author: "லதா",
+    image: `${import.meta.env.BASE_URL}books/toiletseat.jpg`,
+    url: "https://link.amazon/B0igJ8XLs",
+  },
+
 ];
